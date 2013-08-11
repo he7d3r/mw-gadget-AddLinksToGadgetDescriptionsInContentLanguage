@@ -1,5 +1,5 @@
 /**
- * Adds links to edit the gadget descriptions in site language to [[Special:Gadgets]]
+ * Adds links to edit the gadget descriptions in content language to [[Special:Gadgets]]
  * @author: [[User:Helder.wiki]]
  * @tracking: [[Special:GlobalUsage/User:Helder.wiki/Tools/AddLinksToGadgetDescriptionsInUserLanguage.js]] ([[File:User:Helder.wiki/Tools/AddLinksToGadgetDescriptionsInUserLanguage.js]])
  */
